@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{81A45836-CA05-49B2-8307-25608C351F36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterator3", "iterator3\iterator3.csproj", "{00E5323C-7E26-43E1-B2C1-DD6602CDA6B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{81A45836-CA05-49B2-8307-25608C351F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81A45836-CA05-49B2-8307-25608C351F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81A45836-CA05-49B2-8307-25608C351F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E5323C-7E26-43E1-B2C1-DD6602CDA6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E5323C-7E26-43E1-B2C1-DD6602CDA6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E5323C-7E26-43E1-B2C1-DD6602CDA6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E5323C-7E26-43E1-B2C1-DD6602CDA6B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
